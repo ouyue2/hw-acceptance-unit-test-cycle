@@ -34,3 +34,4 @@ Scenario: delete movies
   And  I press "Delete"
   Then  I should be on the RottenPotatoes home page 
   And   I should see "Movie 'Amelie' deleted."
+  
